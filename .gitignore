@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.DS_Store
+
+# Portable release builds (attach to a GitHub Release instead of committing)
+Frameforge/
+Frameforge.zip
